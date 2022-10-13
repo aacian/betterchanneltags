@@ -1,2 +1,2 @@
 # betterchanneltags
-betterchanneltags for Discord by reffi-dev
+betterchanneltags for Discord by aacian-dev
